@@ -1,0 +1,50 @@
+.intro {
+    text-align: center;
+}
+
+.techStack {
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+
+
+.techImgs img {
+    height: 100px;
+    margin: 10px;
+}
+
+.bio {
+    width: 100%;
+    height: 300px;
+    margin-top: 50px;
+}
+
+.bioImg {
+    width: 50%;
+    float: left;
+    height: 250px;
+}
+
+.bioImg img {
+    width: 200px;
+    margin-left: 75px;
+    border-radius: 100px;
+}
+
+.bottom {
+    width: 100%;
+}
+
+.nextPage {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.nextPage img {
+    width: 200px;
+}
+
+h1 {
+    text-align: center;
+}
